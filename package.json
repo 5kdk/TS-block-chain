@@ -1,0 +1,20 @@
+{
+  "name": "ts-block-chain",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5kdk/TS-block-chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5kdk/TS-block-chain/issues"
+  },
+  "homepage": "https://github.com/5kdk/TS-block-chain#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
